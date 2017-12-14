@@ -29,7 +29,7 @@ import java.util.Random;
 public class Main {
 
 
-    public static DiscordAPI api = Javacord.getApi("MzYyNjQ2MDg4OTI0MDA0MzUz.DRNd8g.apL0W5P5YCUl4_YjR0Xh9j6gRR0", true);
+    public static DiscordAPI api = Javacord.getApi("INSERT YOUR TOKEN HERE", true);
     //public static DiscordAPI api = Javacord.getApi("", "");
     static MessageListener listener = new MessageListener();
     private static ArrayList<Command> commands;
