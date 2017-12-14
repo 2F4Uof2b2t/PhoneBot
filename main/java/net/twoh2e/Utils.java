@@ -3,7 +3,7 @@ package net.twoh2e;
 import de.btobastian.javacord.entities.User;
 
 /**
- * Created by Sean Stevens on 6/2/2017.
+ * Created by Sasha Stevens on 6/2/2017.
  */
 public class Utils {
 
