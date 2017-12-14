@@ -13,7 +13,7 @@ import java.net.URLConnection;
 import java.util.UUID;
 
 /**
- * Created by Sean Stevens on 6/2/2017.
+ * Created by Sasha Stevens on 6/2/2017.
  */
 public class namemc {
 
