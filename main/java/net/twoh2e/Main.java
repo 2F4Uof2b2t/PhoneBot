@@ -24,7 +24,7 @@ import java.util.HashMap;
 import java.util.Random;
 
 /**
- * Created by Sean Stevens on 6/1/2017.
+ * Created by Sasha Stevens on 6/1/2017.
  */
 public class Main {
 
